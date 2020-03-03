@@ -1,0 +1,4 @@
+variables:
+  global_variable: global123
+  skipComponentGovernanceDetection: true
+  enableSomething: true

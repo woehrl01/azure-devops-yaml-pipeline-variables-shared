@@ -1,0 +1,2 @@
+variables:
+  inner_var: concat_$(global_variable)_$(stage_variable)_$(variance_variable)
