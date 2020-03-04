@@ -1,3 +1,0 @@
-variables:
-  uppercase_var: $[ dependencies.Uppercase.outputs['setvarStep.uppercase_var'] ]
-  lowercase_var: $[ dependencies.Uppercase.outputs['setvarStep.lowercase_var'] ]
